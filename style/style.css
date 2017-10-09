@@ -1,0 +1,38 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 150px;
+}
+
+.usersListLi:hover,
+.usersListLi.ex4:active {
+    font-family: monospace;
+    color: red;
+}
+img {
+    width: 200px;
+}
+li {
+    list-style-type: none;
+}
+.usersLi1 {
+    position: absolute;
+    top:300px;
+    left:100px;
+}
+.usersLi2 {
+    position: absolute;
+    top:340px;
+    left:100px;
+}
+.usersLi3 {
+    position: absolute;
+    top:380px;
+    left:100px;
+}
